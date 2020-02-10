@@ -1,0 +1,12 @@
+d80cdc6deb985ea60e6d9a32b8d9cd54 *DESCRIPTION
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+3507b6218e678ea6e53852542e8465b4 *R/kc_housing.R
+20fd7d97f8de0d7f8546869db53a7b52 *R/titanic.R
+d3d67168dfe327354edb8ba0a7527760 *R/zzz.R
+b15d698f38dd3bd37f23b965ab2ec9a5 *README.md
+0a8db8f6ad218b50152bdcb47995586d *data/kc_housing.rda
+f8a77341d7cbf4ee2ac7ab82662f070a *data/titanic.rda
+e71faa348b1b1e0c815c8c18e57b9b40 *man/kc_housing.Rd
+b5a0ce7eb0286d1df4b6178536100c8f *man/mlr3data-package.Rd
+be5fcc8703b056e9eb0f6f17acf86a16 *man/titanic.Rd
+14173c9cb4099989aeab533f8407d475 *tests/test_data_sets.R
