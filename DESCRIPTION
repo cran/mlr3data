@@ -1,6 +1,6 @@
 Package: mlr3data
 Title: Collection of Machine Learning Data Sets for 'mlr3'
-Version: 0.6.0
+Version: 0.6.1
 Authors@R: 
     c(person(given = "Michel",
              family = "Lang",
@@ -27,10 +27,10 @@ Suggests: mlr3 (>= 0.13.3)
 Encoding: UTF-8
 LazyData: true
 NeedsCompilation: no
-RoxygenNote: 7.1.2
-Packaged: 2022-03-17 12:53:10 UTC; michel
+RoxygenNote: 7.2.1
+Packaged: 2022-08-12 19:29:20 UTC; michel
 Author: Michel Lang [cre, aut] (<https://orcid.org/0000-0001-9754-0393>),
   Marc Becker [ctb] (<https://orcid.org/0000-0002-8115-0400>)
 Maintainer: Michel Lang <michellang@gmail.com>
 Repository: CRAN
-Date/Publication: 2022-03-18 10:30:02 UTC
+Date/Publication: 2022-08-15 07:30:05 UTC

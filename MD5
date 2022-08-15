@@ -1,6 +1,6 @@
-71c9bfc25a47fa20e1740ac843e90ea3 *DESCRIPTION
+6817ebff22f543ad6dabeaa664feb2e6 *DESCRIPTION
 1f507d695daebe8873f27e8aaedfd49c *NAMESPACE
-bc65036fc61a0ed7a62e6f6b5c1d3b3b *NEWS.md
+b6e3e290274295d9991f51d7bb46280d *NEWS.md
 45f5aabec537f8f0fe37aa09df2cd2a9 *R/bibentries.R
 2d80d360e9eb8597f637e4a9521cf229 *R/bike_sharing.R
 78346b8386ac44a6bae94eadd9065196 *R/helper.R
@@ -8,11 +8,11 @@ bc65036fc61a0ed7a62e6f6b5c1d3b3b *NEWS.md
 f264b015e05f01fb366104ade0bcd80f *R/kc_housing.R
 3b50ce5a4fdb6c0d9802c4523d395abf *R/moneyball.R
 927ed9e09c287f77e67e396b9d13b210 *R/optdigits.R
-0ae7ff440c5bd145a40953b2d5e94581 *R/penguins_simple.R
+cc8645d7b9eea7fb37632fca4192a882 *R/penguins_simple.R
 e1f69d86219303b0985959e24570c1ac *R/titanic.R
 b185a4a89a68dd7c6ddc7293c419abc8 *R/zzz.R
 7e734982623f0993b1c90896f4b78819 *README.md
-ecbad065fa2656a64c20fe98951df735 *build/partial.rdb
+0c6ad5b3446721162c89589e8077ab1c *build/partial.rdb
 f7f3032a4e960f119664a3177fa02954 *data/bike_sharing.rda
 4f95f9269ad28de3ab58372519175d99 *data/ilpd.rda
 0a8db8f6ad218b50152bdcb47995586d *data/kc_housing.rda
@@ -25,9 +25,9 @@ ab926fbf094f58d5bfda63f2db9d30b3 *inst/WORDLIST
 d27b7f5689f51463817dac1b93eeea93 *man/ilpd.Rd
 4a5915476caab08cea6cb9bc5d5449f2 *man/kc_housing.Rd
 a7681c6079928a5c6155172379e35902 *man/macros/cite.Rd
-2d85f8bca773e94582ff9af7e4b3749b *man/mlr3data-package.Rd
+50cc3406b985f3386a7e00f6bcb90003 *man/mlr3data-package.Rd
 41beba1e451da996b6cb14edfbcb4d24 *man/moneyball.Rd
 5c6c81a64e79edf3240b7c7d7e123102 *man/optdigits.Rd
-3221b563f016c04c45228a19e3682432 *man/penguins_simple.Rd
+e4948b874f1720229daa76742e8c70d6 *man/penguins_simple.Rd
 2ae5e50bc6bb8fb269a212a5b258d73b *man/titanic.Rd
 1a477876f89f87cfdffb3ee29e1c2923 *tests/test_data_sets.R
