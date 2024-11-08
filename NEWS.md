@@ -1,6 +1,10 @@
+# mlr3data 0.9.0
+
+* Readd `ames_housing` data set.
+
 # mlr3data 0.8.0
 
-* Move  `ames_housing` to mlr3.
+* Move `ames_housing` to mlr3.
 
 # mlr3data 0.7.0
 
